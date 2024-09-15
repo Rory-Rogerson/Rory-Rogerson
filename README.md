@@ -1,18 +1,10 @@
 @Rory-Rogerson
 
-Repo is here for 
+Repos are here for 
 
-A)  Learning Go and Introducing Go 
-
-She thought in *Italicas* (Word enclosed with *'s)
-She thought in _Italicas_ (Word enclosed with _'s)
-
-
-```
-for (i=1; 1 < 10; i++)
-```
-
-
+A)  Excercises from "Introducing Go" and "Learning Go" books.  
+B)  Examples from Youtube
+C)  Repoistory for the ROOMS project
 
 <!---
 Rory-Rogerson/Rory-Rogerson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

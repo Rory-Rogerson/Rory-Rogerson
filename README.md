@@ -3,7 +3,6 @@
 Repositories are here for 
 
 A)  GO - Excercises from "Introducing Go" and "Learning Go" books.
-
 B)  GO - Examples from Youtube.
 
 C)  Bash - General bash shell projects

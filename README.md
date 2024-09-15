@@ -1,10 +1,11 @@
 @Rory-Rogerson
 
-Repos are here for 
+Repositories are here for 
 
-A)  Excercises from "Introducing Go" and "Learning Go" books.  
-B)  Examples from Youtube
-C)  Repoistory for the ROOMS project
+A)  GO - Excercises from "Introducing Go" and "Learning Go" books.
+B)  GO - Examples from Youtube.
+C)  Bash - General bash shell projects
+D)  Repoistory for the ROOMS project.
 
 <!---
 Rory-Rogerson/Rory-Rogerson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

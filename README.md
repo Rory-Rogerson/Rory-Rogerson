@@ -2,12 +2,10 @@
 
 Repositories are here for 
 
-<LI>
-GO - Excercises from "Introducing Go" and "Learning Go" books.
-GO - Examples from Youtube.
-Bash - General bash shell projects
-Repoistory for the ROOMS project.
-</LI>
+<LI>GO - Excercises from "Introducing Go" and "Learning Go" books. </LI>
+<LI>GO - Examples from Youtube. </LI>
+<LI>Bash - General bash shell projects </LI>
+<LI>Repoistory for the ROOMS project. </LI>
 
 
 <!---
